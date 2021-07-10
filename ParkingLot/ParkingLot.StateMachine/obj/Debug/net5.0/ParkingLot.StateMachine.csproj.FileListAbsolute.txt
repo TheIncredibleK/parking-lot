@@ -1,0 +1,17 @@
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.StateMachine.deps.json
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.StateMachine.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ref/ParkingLot.StateMachine.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.StateMachine.pdb
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.Interfaces.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.IO.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.Interfaces.pdb
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/bin/Debug/net5.0/ParkingLot.IO.pdb
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.csprojAssemblyReference.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.AssemblyInfoInputs.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.AssemblyInfo.cs
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.csproj.CoreCompileInputs.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.csproj.CopyComplete
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ref/ParkingLot.StateMachine.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/Debug/net5.0/ParkingLot.StateMachine.pdb

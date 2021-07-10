@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParkingLot.Interfaces\ParkingLot.Interfaces.csproj" />
+    <ProjectReference Include="..\ParkingLot.Main\ParkingLot.Main.csproj" />
+    <ProjectReference Include="..\ParkingLot.IO\ParkingLot.IO.csproj" />
+    <ProjectReference Include="..\ParkingLot.StateMachine\ParkingLot.StateMachine.csproj" />
+  </ItemGroup>
+</Project>

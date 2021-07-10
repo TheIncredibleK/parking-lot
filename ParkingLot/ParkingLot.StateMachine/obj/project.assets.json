@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ParkingLot.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ParkingLot.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParkingLot.Interfaces.dll": {}
+        }
+      },
+      "ParkingLot.IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ParkingLot.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ParkingLot.IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParkingLot.IO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingLot.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ParkingLot.Interfaces/ParkingLot.Interfaces.csproj",
+      "msbuildProject": "../ParkingLot.Interfaces/ParkingLot.Interfaces.csproj"
+    },
+    "ParkingLot.IO/1.0.0": {
+      "type": "project",
+      "path": "../ParkingLot.IO/ParkingLot.IO.csproj",
+      "msbuildProject": "../ParkingLot.IO/ParkingLot.IO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ParkingLot.IO >= 1.0.0",
+      "ParkingLot.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kennyk/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/ParkingLot.StateMachine.csproj",
+      "projectName": "ParkingLot.StateMachine",
+      "projectPath": "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/ParkingLot.StateMachine.csproj",
+      "packagesPath": "/Users/kennyk/.nuget/packages/",
+      "outputPath": "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.StateMachine/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kennyk/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.Interfaces/ParkingLot.Interfaces.csproj": {
+              "projectPath": "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.Interfaces/ParkingLot.Interfaces.csproj"
+            },
+            "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/ParkingLot.IO.csproj": {
+              "projectPath": "/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/ParkingLot.IO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

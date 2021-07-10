@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParkingLot.Interfaces\ParkingLot.Interfaces.csproj" />
+    <ProjectReference Include="..\ParkingLot.IO\ParkingLot.IO.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="States\" />
+  </ItemGroup>
+</Project>

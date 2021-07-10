@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{1BC745C4-AFA8-42A2-9CAE-74147DE1CA85}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.ParkingLot.Main PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingLot.Tests/ExitGateTests.cs">
+    <Files>
+      <File FileName="ParkingLot.Interfaces/IParkingLot.cs" Line="1" Column="1" />
+      <File FileName="ParkingLot.Interfaces/IParkingLotGate.cs" Line="10" Column="99" />
+      <File FileName="ParkingLot.Interfaces/IParkingLotGateInputs.cs" Line="6" Column="22" />
+      <File FileName="ParkingLot.Interfaces/IParkingLotGateOutputs.cs" Line="27" Column="26" />
+      <File FileName="ParkingLot.Tests/ParkingLot.Tests.csproj" Line="8" Column="7" />
+      <File FileName="ParkingLot.Tests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="ParkingLot.Main/Program.cs" Line="3" Column="21" />
+      <File FileName="ParkingLot.Main/ParkingLotGates/EntryGate.cs" Line="12" Column="98" />
+      <File FileName="ParkingLot.StateMachine/AbstractState.cs" Line="11" Column="1" />
+      <File FileName="ParkingLot.Main/ParkingLot.cs" Line="52" Column="10" />
+      <File FileName="ParkingLot.Main/ParkingLotGates/ExitGate.cs" Line="25" Column="32" />
+      <File FileName="ParkingLot.Main/ParkingLotGates/AbstractGate.cs" Line="23" Column="33" />
+      <File FileName="ParkingLot.Main/MessageHandlers/InputToCommandConverter.cs" Line="44" Column="10" />
+      <File FileName="ParkingLot.Main/Command.cs" Line="18" Column="1" />
+      <File FileName="ParkingLot.Main/MessageHandlers/CommandTypes.cs" Line="4" Column="17" />
+      <File FileName="ParkingLot.StateMachine/StateMachine.cs" Line="8" Column="21" />
+      <File FileName="ParkingLot.StateMachine/StateContext.cs" Line="32" Column="29" />
+      <File FileName="ParkingLot.StateMachine/States/ClosedState.cs" Line="8" Column="48" />
+      <File FileName="ParkingLot.Main/ParkingLotIO/ParkingLotInput.cs" Line="4" Column="19" />
+      <File FileName="ParkingLot.Main/ParkingLotIO/ParkingLotOutput.cs" Line="2" Column="17" />
+      <File FileName="ParkingLot.IO/ParkinLotOutputProvider.cs" Line="23" Column="51" />
+      <File FileName="ParkingLot.StateMachine/States/OpeningState.cs" Line="8" Column="61" />
+      <File FileName="ParkingLot.StateMachine/States/ClosingState.cs" Line="7" Column="61" />
+      <File FileName="ParkingLot.StateMachine/States/OpenState.cs" Line="8" Column="46" />
+      <File FileName="ParkingLot.Main/Vehicle.cs" Line="26" Column="1" />
+      <File FileName="ParkingLot.StateMachine/States/StopState.cs" Line="8" Column="86" />
+      <File FileName="ParkingLot.Tests/EntryGateTests.cs" Line="13" Column="9" />
+      <File FileName="ParkingLot.Tests/ExitGateTests.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingLot" expanded="True">
+            <Node name="ParkingLot.Interfaces" expanded="True" />
+            <Node name="ParkingLot.IO" expanded="True" />
+            <Node name="ParkingLot.Main" expanded="True">
+              <Node name="ParkingLotGates" expanded="True" />
+            </Node>
+            <Node name="ParkingLot.StateMachine" expanded="True">
+              <Node name="MessageHandlers" expanded="True" />
+              <Node name="States" expanded="True" />
+            </Node>
+            <Node name="ParkingLot.Tests" expanded="True">
+              <Node name="ExitGateTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ParkingLot" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ParkingLot.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

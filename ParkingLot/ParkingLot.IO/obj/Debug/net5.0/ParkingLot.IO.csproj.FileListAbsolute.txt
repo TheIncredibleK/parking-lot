@@ -1,0 +1,15 @@
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.csprojAssemblyReference.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.AssemblyInfoInputs.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.AssemblyInfo.cs
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.csproj.CoreCompileInputs.cache
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ParkingLot.IO.deps.json
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ParkingLot.IO.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ref/ParkingLot.IO.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ParkingLot.IO.pdb
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ParkingLot.Interfaces.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/bin/Debug/net5.0/ParkingLot.Interfaces.pdb
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.csproj.CopyComplete
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ref/ParkingLot.IO.dll
+/Users/kennyk/Projects/code-tests/moffet/ParkingLot/ParkingLot.IO/obj/Debug/net5.0/ParkingLot.IO.pdb
